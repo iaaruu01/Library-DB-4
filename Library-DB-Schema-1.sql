@@ -1,3 +1,4 @@
+
 -- create category table
 CREATE TABLE Category (
     CategoryID INT PRIMARY KEY AUTO_INCREMENT,
